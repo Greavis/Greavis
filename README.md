@@ -1,16 +1,46 @@
-### Hi there 👋
+```python
+print("Привет, мир!👋")
+```
 
 <!--
-**Greavis/Greavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+я такой-то такой-то
+Тут 🔗[страничка](https://github/Greavis)🔗 гитхаб где можно узнать всякое обо мне
+Ниже всё то же самое
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###навыки  
+skill1: 🔳🔳⬜⬜⬜
+skill2: 🔳🔳🔳⬜⬜
+| Навык | Уровень |
+| ----------- | ----------- |
+| skill1    | 🔳🔳⬜⬜⬜   |
+| Ячейка 3    | Ячейка 4   |
+
+---
+
+достижения
+
+---
+
+курсы
+
+---
+
+увлечения
+
+---
+
+обо мне
+
+---
+
+портфолио
+
+---
+
+ищу работу и еду
+
+---
+
 -->
